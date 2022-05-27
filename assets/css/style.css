@@ -935,7 +935,7 @@ section {
   color: #626262;
 }
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("../img/counts1.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -983,8 +983,8 @@ section {
   color: #fff;
 }
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
-  border-radius: 50%;
+  width: auto;
+ /* border-radius: 50%;*/
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
 }
@@ -1446,7 +1446,7 @@ section {
 
  /* Slideshow container */
 #catalogo .slideshow-container {
-  max-width: 1000px;
+  max-width: 1300px;
   position: relative;
   margin: auto;
 }
